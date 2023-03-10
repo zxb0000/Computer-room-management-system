@@ -1,0 +1,6 @@
+date:2 time:2 stuid:2 stuName:李四 roomid:3 status:2
+date:3 time:1 stuid:1 stuName:张三 roomid:3 status:0
+date:1 time:1 stuid:1 stuName:张三 roomid:3 status:-1
+date:5 time:1 stuid:1 stuName:张三 roomid:3 status:0
+date:1 time:1 stuid:1 stuName:张三 roomid:2 status:1
+date:3 time:2 stuid:1 stuName:张三 roomid:12 status:1
